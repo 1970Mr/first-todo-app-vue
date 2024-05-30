@@ -27,7 +27,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/github-1970/todo-app-vue
+   git clone https://github.com/1970Mr/todo-app-vue
    ```
 
 2. Navigate to the project directory:
