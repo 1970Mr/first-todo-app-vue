@@ -1,4 +1,6 @@
-## Todo App with Vue.js
+## Todo App with Vue.js (Archived)
+
+**This repository is now archived and no longer actively maintained. The project has been moved to a new repository. You can find the latest version and updates at the following location: [New Todo App Repository](https://github.com/1970Mr/todo-app-vue).**
 
 This project is a simple Todo application built using Vue.js. It allows users to create, update, delete, and mark todo items as completed.
 
@@ -27,7 +29,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/1970Mr/todo-app-vue
+   git clone https://github.com/1970Mr/first-todo-app-vue
    ```
 
 2. Navigate to the project directory:
@@ -58,13 +60,7 @@ To run this project locally, follow these steps:
 
 ### Contributing
 
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/my-feature`).
-3. Make your changes and commit them (`git commit -am 'Add new feature'`).
-4. Push your changes to your forked repository (`git push origin feature/my-feature`).
-5. Create a new Pull Request.
+Contributions are welcome! However, as this repository is archived, any future contributions should be made to the [new repository](https://github.com/1970Mr/todo-app-vue).
 
 ### License
 
